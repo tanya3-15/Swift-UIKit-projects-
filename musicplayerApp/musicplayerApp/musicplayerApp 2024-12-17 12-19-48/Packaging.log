@@ -1,0 +1,180 @@
+2024-12-17 06:49:43 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x3885e05b0; archive(resolved)="<IDEArchive: 0x600015215570>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	Chain (15, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x3885e05b0; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x3885d3810; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3885f2ab0; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x32cf0d470; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3894f7780; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x38948ab30; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x10b1fe450; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x38852ec20; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x11a463fa0; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600016faf340; teamID='V479GRYT8P', teamName='DRISH INFOTECH LIMITED', teamType='Company', username='ravi.kumar@drishinfo.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x11a44fb80; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="(null)">
+	<IDEDistributionContext: 0x11a4580f0; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="(null)">
+	<IDEDistributionContext: 0x11a412e20; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="(null)">
+	<IDEDistributionContext: 0x32b84cfe0; archive = "<IDEArchive: 0x600015215570>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000b904ce0>", team="(null)">
+	<IDEDistributionContext: 0x38852ea10; archive = "<IDEArchive: 0x600015215570>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x1302f0a90; archive = "<IDEArchive: 0x600015215570>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x3885e05b0>
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionCopyItemStep
+2024-12-17 06:49:43 +0000  Running /usr/bin/ditto '-V' '/Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app' '/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root/Payload/musicplayerApp.app'
+2024-12-17 06:49:43 +0000  >>> Copying /Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app 
+2024-12-17 06:49:43 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-12-17 06:49:43 +0000  6073 bytes for ./_CodeSignature/CodeResources
+2024-12-17 06:49:43 +0000  copying file ./song1.mp3 ... 
+2024-12-17 06:49:43 +0000  18723036 bytes for ./song1.mp3
+2024-12-17 06:49:43 +0000  copying file ./musicplayerApp ... 
+2024-12-17 06:49:43 +0000  111104 bytes for ./musicplayerApp
+2024-12-17 06:49:43 +0000  copying file ./song2.mp3 ... 
+2024-12-17 06:49:43 +0000  5875180 bytes for ./song2.mp3
+2024-12-17 06:49:43 +0000  copying file ./song3.mp3 ... 
+2024-12-17 06:49:43 +0000  5247614 bytes for ./song3.mp3
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/Main.storyboardc/f71-gy-kdN-view-3gv-25-4d6.nib ... 
+2024-12-17 06:49:43 +0000  2309 bytes for ./Base.lproj/Main.storyboardc/f71-gy-kdN-view-3gv-25-4d6.nib
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-ymE-Ed-IfI.nib ... 
+2024-12-17 06:49:43 +0000  1879 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-ymE-Ed-IfI.nib
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-12-17 06:49:43 +0000  7122 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/Main.storyboardc/player.nib ... 
+2024-12-17 06:49:43 +0000  1052 bytes for ./Base.lproj/Main.storyboardc/player.nib
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2024-12-17 06:49:43 +0000  294 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-12-17 06:49:43 +0000  1225 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-12-17 06:49:43 +0000  924 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-12-17 06:49:43 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-12-17 06:49:43 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-12-17 06:49:43 +0000  copying file ./Assets.car ... 
+2024-12-17 06:49:43 +0000  3557663 bytes for ./Assets.car
+2024-12-17 06:49:43 +0000  copying file ./musicplayerApp.momd/musicplayerApp.mom ... 
+2024-12-17 06:49:43 +0000  566 bytes for ./musicplayerApp.momd/musicplayerApp.mom
+2024-12-17 06:49:43 +0000  copying file ./musicplayerApp.momd/VersionInfo.plist ... 
+2024-12-17 06:49:43 +0000  276 bytes for ./musicplayerApp.momd/VersionInfo.plist
+2024-12-17 06:49:43 +0000  copying file ./musicplayerApp.momd/musicplayerApp.omo ... 
+2024-12-17 06:49:43 +0000  704 bytes for ./musicplayerApp.momd/musicplayerApp.omo
+2024-12-17 06:49:43 +0000  copying file ./embedded.mobileprovision ... 
+2024-12-17 06:49:43 +0000  32166 bytes for ./embedded.mobileprovision
+2024-12-17 06:49:43 +0000  copying file ./Info.plist ... 
+2024-12-17 06:49:43 +0000  1482 bytes for ./Info.plist
+2024-12-17 06:49:43 +0000  copying file ./PkgInfo ... 
+2024-12-17 06:49:43 +0000  8 bytes for ./PkgInfo
+2024-12-17 06:49:43 +0000  /usr/bin/ditto exited with 0
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-12-17 06:49:43 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-12-17 06:49:43 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionSymbolsStep
+2024-12-17 06:49:43 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionAppThinningStep
+2024-12-17 06:49:43 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionArchThinningStep
+2024-12-17 06:49:43 +0000  Item /Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-12-17 06:49:43 +0000  Archs to thin for item /Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app are ["arm64e"]
+2024-12-17 06:49:43 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root/Payload/musicplayerApp.app/musicplayerApp' '-verify_arch' 'arm64e'
+2024-12-17 06:49:43 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-12-17 06:49:43 +0000  Skipping architecture thinning for item "musicplayerApp" because arch "arm64e" wasn't found
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionODRStep
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-12-17 06:49:43 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionCodesignStep
+2024-12-17 06:49:43 +0000  Entitlements for <IDEDistributionItem: 0x600015f52b80; bundleID='com.drish.musicplayerApp', path='<DVTFilePath:0x600015216290:'/Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600019a27f20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004fa9980; name='Apple Development: Ravi Kumar (8A6DSB7S7Y)', hash='0D27C5D7D8D5520E88BAAFF9C33F85772D6CEEBF', serialNumber='2D2EE9CD816B6A13171E135C20A961A1', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-04-30 05:22:23 +0000''>', entitlements='{
+    "application-identifier" = "V479GRYT8P.com.drish.musicplayerApp";
+    "com.apple.developer.team-identifier" = V479GRYT8P;
+    "get-task-allow" = 1;
+}', teamID='V479GRYT8P', identifier='com.drish.musicplayerApp', executablePath='<DVTFilePath:0x600015ec7360:'/Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app/musicplayerApp'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "V479GRYT8P.com.drish.musicplayerApp";
+    "com.apple.developer.team-identifier" = V479GRYT8P;
+    "get-task-allow" = 1;
+}
+2024-12-17 06:49:43 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-12-17 06:49:43 +0000  Entitlements for <IDEDistributionItem: 0x600015f52b80; bundleID='com.drish.musicplayerApp', path='<DVTFilePath:0x600015216290:'/Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600019a27f20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004faad00; name='Apple Development: Ravi Kumar (8A6DSB7S7Y)', hash='0D27C5D7D8D5520E88BAAFF9C33F85772D6CEEBF', serialNumber='2D2EE9CD816B6A13171E135C20A961A1', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-04-30 05:22:23 +0000''>', entitlements='{
+    "application-identifier" = "V479GRYT8P.com.drish.musicplayerApp";
+    "com.apple.developer.team-identifier" = V479GRYT8P;
+    "get-task-allow" = 1;
+}', teamID='V479GRYT8P', identifier='com.drish.musicplayerApp', executablePath='<DVTFilePath:0x600015ec7360:'/Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app/musicplayerApp'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "V479GRYT8P.com.drish.musicplayerApp";
+    "com.apple.developer.team-identifier" = V479GRYT8P;
+    "get-task-allow" = 1;
+}
+2024-12-17 06:49:43 +0000  Writing entitlements for <IDEDistributionItem: 0x600015f52b80; bundleID='com.drish.musicplayerApp', path='<DVTFilePath:0x600015216290:'/Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600019a27f20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600004fafd80; name='Apple Development: Ravi Kumar (8A6DSB7S7Y)', hash='0D27C5D7D8D5520E88BAAFF9C33F85772D6CEEBF', serialNumber='2D2EE9CD816B6A13171E135C20A961A1', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-04-30 05:22:23 +0000''>', entitlements='{
+    "application-identifier" = "V479GRYT8P.com.drish.musicplayerApp";
+    "com.apple.developer.team-identifier" = V479GRYT8P;
+    "get-task-allow" = 1;
+}', teamID='V479GRYT8P', identifier='com.drish.musicplayerApp', executablePath='<DVTFilePath:0x600015ec7360:'/Users/sunilchauhan/Library/Developer/Xcode/Archives/2024-12-17/musicplayerApp 17-12-24, 12.19 PM.xcarchive/Products/Applications/musicplayerApp.app/musicplayerApp'>', hardenedRuntime='0'>'> to: /var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/entitlements~~~HHWBeo
+2024-12-17 06:49:43 +0000  invoking codesign: <NSConcreteTask: 0x6000159cee90; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    0D27C5D7D8D5520E88BAAFF9C33F85772D6CEEBF,
+    "--entitlements",
+    "/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/entitlements~~~HHWBeo",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root/Payload/musicplayerApp.app"
+)'>
+2024-12-17 06:49:43 +0000  codesign output: /var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root/Payload/musicplayerApp.app: replacing existing signature
+/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root/Payload/musicplayerApp.app: signed app bundle with Mach-O thin (arm64) [com.drish.musicplayerApp]
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-12-17 06:49:43 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-12-17 06:49:43 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-12-17 06:49:43 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root' '/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Packages/musicplayerApp.ipa'
+2024-12-17 06:49:43 +0000  >>> Copying /var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root 
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/_CodeSignature/CodeResources ... 
+2024-12-17 06:49:43 +0000  6073 bytes for ./Payload/musicplayerApp.app/_CodeSignature/CodeResources
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/song1.mp3 ... 
+2024-12-17 06:49:43 +0000  18723036 bytes for ./Payload/musicplayerApp.app/song1.mp3
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/musicplayerApp ... 
+2024-12-17 06:49:43 +0000  111104 bytes for ./Payload/musicplayerApp.app/musicplayerApp
+copying file ./Payload/musicplayerApp.app/song2.mp3 ... 
+2024-12-17 06:49:43 +0000  5875180 bytes for ./Payload/musicplayerApp.app/song2.mp3
+copying file ./Payload/musicplayerApp.app/song3.mp3 ... 
+2024-12-17 06:49:43 +0000  5247614 bytes for ./Payload/musicplayerApp.app/song3.mp3
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/f71-gy-kdN-view-3gv-25-4d6.nib ... 
+2024-12-17 06:49:43 +0000  2309 bytes for ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/f71-gy-kdN-view-3gv-25-4d6.nib
+copying file ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/UINavigationController-ymE-Ed-IfI.nib ... 
+2024-12-17 06:49:43 +0000  1879 bytes for ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/UINavigationController-ymE-Ed-IfI.nib
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-12-17 06:49:43 +0000  7122 bytes for ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/player.nib ... 
+2024-12-17 06:49:43 +0000  1052 bytes for ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/player.nib
+copying file ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2024-12-17 06:49:43 +0000  294 bytes for ./Payload/musicplayerApp.app/Base.lproj/Main.storyboardc/Info.plist
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-12-17 06:49:43 +0000  1225 bytes for ./Payload/musicplayerApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-12-17 06:49:43 +0000  924 bytes for ./Payload/musicplayerApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-12-17 06:49:43 +0000  258 bytes for ./Payload/musicplayerApp.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-12-17 06:49:43 +0000  copying file ./Payload/musicplayerApp.app/Assets.car ... 
+2024-12-17 06:49:44 +0000  3557663 bytes for ./Payload/musicplayerApp.app/Assets.car
+2024-12-17 06:49:44 +0000  copying file ./Payload/musicplayerApp.app/musicplayerApp.momd/musicplayerApp.mom ... 
+566 bytes for ./Payload/musicplayerApp.app/musicplayerApp.momd/musicplayerApp.mom
+copying file ./Payload/musicplayerApp.app/musicplayerApp.momd/VersionInfo.plist ... 
+276 bytes for ./Payload/musicplayerApp.app/musicplayerApp.momd/VersionInfo.plist
+copying file ./Payload/musicplayerApp.app/musicplayerApp.momd/musicplayerApp.omo ... 
+704 bytes for ./Payload/musicplayerApp.app/musicplayerApp.momd/musicplayerApp.omo
+copying file ./Payload/musicplayerApp.app/embedded.mobileprovision ... 
+2024-12-17 06:49:44 +0000  32166 bytes for ./Payload/musicplayerApp.app/embedded.mobileprovision
+copying file ./Payload/musicplayerApp.app/Info.plist ... 
+2024-12-17 06:49:44 +0000  1482 bytes for ./Payload/musicplayerApp.app/Info.plist
+copying file ./Payload/musicplayerApp.app/PkgInfo ... 
+2024-12-17 06:49:44 +0000  8 bytes for ./Payload/musicplayerApp.app/PkgInfo
+2024-12-17 06:49:44 +0000  /usr/bin/ditto exited with 0
+2024-12-17 06:49:44 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-12-17 06:49:44 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-12-17 06:49:44 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-12-17 06:49:44 +0000  IDEDistributionItem init <DVTFilePath:0x6000152ce990:'/var/folders/m0/qy3jrhqx66nfjzwzm_tj4s840000gn/T/XcodeDistPipeline.~~~VUsiEM/Root/Payload/musicplayerApp.app'>
+2024-12-17 06:49:44 +0000  Processing step: IDEDistributionCreateManifestStep
